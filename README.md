@@ -2,19 +2,18 @@
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
 ## Hướng dẫn tải arduino và open mv
-- Đầu tiên cần truy cập vào link
-- https://www.matrixrobotics.com/adv-program-resources để tải
+- Đầu tiên cần truy cập vào link https://www.matrixrobotics.com/adv-program-resources để có thể tải arduino IDE
 - Hướng dẫn tải [https://username.github.io/repository](https://www.matrixrobotics.com/file-share/aa511d46-f96a-416a-ae97-c4abf8c9614a) tìm mục MATRIX_R4_Guidebook_EN_V3.0.pdf sau khi vào thì tìm 2.11.2.Arduino Programming & Library Overview ở trang 45
-- sau đó tải open Mv, Hướng dẫn tải https://wro-learn.org/en_us/wiki/m-vision-camera
-- để có thể sử dụng camera bạn cần tải file code https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/MiniR4SmartCamReader.h
-- sau đấy mở thư mục lên vào phần document => arduino => libraries => Matrix Mini R4 => src => moudle , dán file vào
+- Sau khi đã cài arduino ta cần tải thêm Open MV, Hướng dẫn tải https://wro-learn.org/en_us/wiki/m-vision-camera
+- Để có thể sử dụng camera bạn cần tải file code https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/MiniR4SmartCamReader.h
+- Sau đấy mở thư mục lên vào phần document => arduino => libraries => Matrix Mini R4 => src => moudle , dán file vào
 
 ## Hướng dẫn lắp robot
 - Sử dụng bộ dụng cụ **MATRIX WRO Future Innovators Set V2**
 - Hướng dẫn lắp
 ## Hệ thống cảm biến
-- 2 laser sensor V2
-- color senser V3
+- Hai laser sensor V2
+- Color senser V3
 - M-vision camera
 - Động cơ DC
 - Servo
@@ -33,7 +32,7 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 | `TranhKhoi_Xanh()` | Né khối màu xanh |
 
 ## Hướng dẫn cài code và chạy
-- code arduino https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/doduongv2_ban_arduino.ino
+- Code arduino IDE https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/doduongv2_ban_arduino.ino
 - Trước khi chạy cần để robot song song với thành tường, trong vực quy định đối với vòng thử thách mở và trong khu vực đỗ xe đối vòng thử thách chướng ngại vật
 ## Hướng dẫn xử lý lỗi
 - Robot khi bám tường bị lắc, không ổn định ==> cần điều chỉnh chỉ số kp, kd
