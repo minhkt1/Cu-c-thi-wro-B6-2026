@@ -14,9 +14,9 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 - <img width="374" height="287" alt="Screenshot 2026-07-23 152145" src="https://github.com/user-attachments/assets/f11c214b-8f74-4ca6-94e2-7f40d19c3175" />
 - Bấm install
 - <img width="371" height="289" alt="Screenshot 2026-07-23 152205" src="https://github.com/user-attachments/assets/38110437-aedf-4b02-ba51-0f083db7d115" />
--Sau khi tải thành công, mở arduino lên và vào phần BOARDS MANAGE, sau đấy gõ chữ **R4** trên thanh tìm kiếm
+- Sau khi tải thành công, mở arduino lên và vào phần BOARDS MANAGE, sau đấy gõ chữ **R4** trên thanh tìm kiếm
 <img width="464" height="300" alt="image" src="https://github.com/user-attachments/assets/f5318ab5-a008-416e-9ac5-bc30a28d347c" />
--Bấm install
+- Bấm install
 
 
 
