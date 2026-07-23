@@ -1,7 +1,9 @@
 # Cu-c-thi-wro-B6-2026
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
-## 📋 Tính năng
+## Hướng dẫn tải arduino
+- đầu tiên cần truy cập vào link
+- https://www.matrixrobotics.com/adv-program-resources
 
 - 🚗 Điều khiển xe bằng Matrix Mini R4
 - 📏 Bám tường trái/phải bằng cảm biến Laser
