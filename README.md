@@ -5,7 +5,8 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 - đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources
 
-- 🚗 Điều khiển xe bằng Matrix Mini R4
+- <img width="648" height="171" alt="image" src="https://github.com/user-attachments/assets/72b0a768-fade-4eb1-ac12-deabcfcb3846" />
+
 - 📏 Bám tường trái/phải bằng cảm biến Laser
 - 🎯 Điều khiển lái bằng thuật toán PD
 - 🎨 Nhận diện màu để xác định điểm chuyển hướng
