@@ -1,12 +1,64 @@
 # Cuoc-thi-WRO-B6-2026
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
-## Hướng dẫn tải arduino và open mv
-- Đầu tiên cần truy cập vào link https://www.matrixrobotics.com/adv-program-resources để có thể tải arduino IDE
-- Hướng dẫn tải [https://username.github.io/repository](https://www.matrixrobotics.com/file-share/aa511d46-f96a-416a-ae97-c4abf8c9614a) tìm mục MATRIX_R4_Guidebook_EN_V3.0.pdf sau khi vào thì tìm 2.11.2.Arduino Programming & Library Overview ở trang 45
-- Sau khi đã cài arduino ta cần tải thêm Open MV, Hướng dẫn tải https://wro-learn.org/en_us/wiki/m-vision-camera
-- Để có thể sử dụng camera bạn cần tải file code https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/MiniR4SmartCamReader.h
-- Sau đấy mở thư mục lên vào phần document => arduino => libraries => Matrix Mini R4 => src => moudle , dán file vào và replace
+# Cài đặt môi trường phát triển
+
+Để lập trình và vận hành robot, cần cài đặt các phần mềm và thư viện theo các bước sau.
+
+## 1. Cài đặt Arduino IDE
+
+Truy cập trang tài nguyên của MATRIX Robotics:
+
+> https://www.matrixrobotics.com/adv-program-resources
+
+Tải và cài đặt **Arduino IDE** theo hướng dẫn.
+
+Để biết chi tiết cách cài đặt và sử dụng thư viện MATRIX Mini R4, tham khảo tài liệu:
+
+> https://username.github.io/repository
+
+Mở tài liệu **MATRIX_R4_Guidebook_EN_V3.0.pdf**, sau đó đến **Mục 2.11.2 – Arduino Programming & Library Overview (Trang 45)** và thực hiện theo hướng dẫn.
+
+---
+
+## 2. Cài đặt OpenMV IDE
+
+Sau khi cài đặt Arduino IDE, tiếp tục cài đặt **OpenMV IDE** để lập trình cho camera OpenMV.
+
+Hướng dẫn cài đặt:
+
+> https://wro-learn.org/en_us/wiki/m-vision-camera
+
+---
+
+## 3. Cài đặt thư viện giao tiếp với camera
+
+Để MATRIX Mini R4 có thể giao tiếp với camera OpenMV, tải tệp sau:
+
+> https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/MiniR4SmartCamReader.h
+
+Sau khi tải về, sao chép tệp **MiniR4SmartCamReader.h** vào thư mục:
+
+```text
+Documents/
+└── Arduino/
+    └── libraries/
+        └── Matrix Mini R4/
+            └── src/
+                └── module/
+```
+
+Nếu hệ thống hiển thị thông báo ghi đè tệp, chọn **Replace** để thay thế tệp hiện có.
+
+---
+
+## Hoàn tất
+
+Sau khi hoàn thành các bước trên, môi trường phát triển đã được thiết lập đầy đủ và sẵn sàng để:
+
+- Biên dịch chương trình trên Arduino IDE.
+- Nạp chương trình cho MATRIX Mini R4.
+- Lập trình và sử dụng camera OpenMV.
 
 ## Hướng dẫn lắp robot
 - Sử dụng bộ dụng cụ **MATRIX WRO Future Innovators Set V2**
