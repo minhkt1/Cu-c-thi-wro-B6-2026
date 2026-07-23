@@ -1,7 +1,7 @@
 # Cuoc-thi-WRO-B6-2026
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
-## Hướng dẫn tải arduino
+## Hướng dẫn tải arduino và open mv
 - Đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources để tải
 - Hướng dẫn tải [https://username.github.io/repository](https://www.matrixrobotics.com/file-share/aa511d46-f96a-416a-ae97-c4abf8c9614a) tìm mục MATRIX_R4_Guidebook_EN_V3.0.pdf sau khi vào thì tìm 2.11.2.Arduino Programming & Library Overview
@@ -9,6 +9,10 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 - để có thể sử dụng camera bạn cần tải file
 - sau đấy mở thư mục lên vào phần document => arduino => libraries => Matrix Mini R4 => src => moudle , dán file vào
 
+## hướng dẫn lắp robot
+- Sử dụng bộ dụng cụ **MATRIX WRO Future Innovators Set V2**
+- Hướng dẫn lắp
+##
 
 
 
