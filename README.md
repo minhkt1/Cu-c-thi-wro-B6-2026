@@ -86,6 +86,7 @@ Repository bao gồm hai chương trình:
 - **Obstacle Challenge**: Chương trình vượt chướng ngại vật. Link: https://github.com/SuGiugi/CCVA-HSRL-B6-03/blob/main/Code/Osbtacle_Challenge/Osbtacle_Challenge.ino
 
 - **Open Challenge**: Chương trình thử thách mở. Link: https://github.com/SuGiugi/CCVA-HSRL-B6-03/blob/main/Code/Open_Challenge/Open_Challenge.ino
+
 Mỗi chương trình sử dụng các hàm khác nhau để điều khiển robot.
 
 ---
