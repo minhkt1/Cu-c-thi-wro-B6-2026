@@ -1,5 +1,5 @@
-# Cu-c-thi-wro-B6-2026
-Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
+# Cuoc-thi-WRO-B6-2026
+Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
 ## Hướng dẫn tải arduino
 - đầu tiên cần truy cập vào link
