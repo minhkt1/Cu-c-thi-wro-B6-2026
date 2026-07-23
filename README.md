@@ -4,7 +4,7 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 ## Hướng dẫn tải arduino và open mv
 - Đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources để tải
-- Hướng dẫn tải [https://username.github.io/repository](https://www.matrixrobotics.com/file-share/aa511d46-f96a-416a-ae97-c4abf8c9614a) tìm mục MATRIX_R4_Guidebook_EN_V3.0.pdf sau khi vào thì tìm 2.11.2.Arduino Programming & Library Overview
+- Hướng dẫn tải [https://username.github.io/repository]([https://www.matrixrobotics.com/file-share/aa511d46-f96a-416a-ae97-c4abf8c9614a](https://download-files.wixmp.com/raw/d3626f_9be494eb96654690bd0352d2ae64b739.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvYmoiOltbeyJwYXRoIjoiL3Jhdy9kMzYyNmZfOWJlNDk0ZWI5NjY1NDY5MGJkMDM1MmQyYWU2NGI3MzkucGRmIn1dXSwiZGlzIjp7ImZpbGVuYW1lIjoiTUFUUklYX1I0X0d1aWRlYm9va19FTl9WMy4wLnBkZiIsInR5cGUiOiJpbmxpbmUifSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXSwiZXhwIjoxNzg0Nzk4MzEyLCJqdGkiOiI5ODI2N2U5YS0yMjBmLTQ4NWUtOTQ5MC1lMjVmMWIzYTM1NDgiLCJpYXQiOjE3ODQ3OTc0MTIsImlzcyI6InVybjphcHA6ZTY2NjMwZTcxNGYwNDkwYWFlYTFmMTQ5YjNiNjllMzIiLCJzdWIiOiJ1cm46YXBwOmU2NjYzMGU3MTRmMDQ5MGFhZWExZjE0OWIzYjY5ZTMyIn0.WYXfJCxaNXgPdvPV1kARK3POfCfZdZi3R_qhKxv5pzg)) tìm mục 2.11.2.Arduino Programming & Library Overview ở trang 45
 - sau đó tải open Mv, Hướng dẫn tải https://wro-learn.org/en_us/wiki/m-vision-camera
 - để có thể sử dụng camera bạn cần tải file
 - sau đấy mở thư mục lên vào phần document => arduino => libraries => Matrix Mini R4 => src => moudle , dán file vào
