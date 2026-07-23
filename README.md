@@ -126,8 +126,10 @@ Repository được tổ chức theo các thư mục chức năng nhằm thuận
 ```text
 CCVA-HSRL-B6-03
 │
-├── Adurino libaries/      # Thư viện sử dụng cho Arduino IDE
-├── CCVA-HSRL-B6-03/       # Mã nguồn chương trình điều khiển robot
+├── Adurino libaries/     # Thư viện sử dụng cho Arduino IDE    
+├── Code/       # Mã nguồn chương trình điều khiển robot
+        ├── Osbtacle_Challenge/ # Mã vòng thử thách vượt chướng ngại vật
+        └── Open_Challenge/  # Mã vòng thử thách mở
 ├── Instruction/           # Hướng dẫn cài đặt và sử dụng
 ├── OpenMV/                # Chương trình xử lý ảnh cho OpenMV
 ├── Pictures/              # Hình ảnh robot và các thành phần
@@ -141,7 +143,7 @@ CCVA-HSRL-B6-03
 
 Chứa các thư viện cần thiết để biên dịch và chạy chương trình trên **Arduino IDE**. Người dùng nên cài đặt các thư viện này trước khi nạp chương trình cho robot.
 
-#### `CCVA-HSRL-B6-03/`
+#### `Code/`
 
 Chứa mã nguồn chính của robot, bao gồm các thuật toán điều khiển, xử lý cảm biến và các hàm phục vụ quá trình thi đấu.
 
