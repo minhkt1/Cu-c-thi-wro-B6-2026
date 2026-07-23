@@ -4,8 +4,19 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 ## Hướng dẫn tải arduino
 - Đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources
-- Kéo cho đến khi nhìn thấy chữ download arduino như ảnh dưới đây, sau đó bấm download
+- Kéo cho đến khi nhìn thấy chữ download arduino IDE như ảnh dưới đây, sau đó bấm download
 - <img width="648" height="171" alt="image" src="https://github.com/user-attachments/assets/72b0a768-fade-4eb1-ac12-deabcfcb3846" />
+- Sau khi tải xong, ta cần mở thư mục lên vào phần download, tìm arduino IDE và mở nó lên. Sau khi mở lên nó sẽ hiện như sau
+- <img width="373" height="288" alt="Screenshot 2026-07-23 151909" src="https://github.com/user-attachments/assets/825dd7c0-7065-41e9-ac37-b9f35f13208e" />
+- Bấm i angree, nó sẽ hiện
+- <img width="374" height="287" alt="Screenshot 2026-07-23 152145" src="https://github.com/user-attachments/assets/11093e3f-0c69-4035-a33e-a21da1d2f9ba" />
+- Tiếp theo sẽ bấm next
+- <img width="374" height="287" alt="Screenshot 2026-07-23 152145" src="https://github.com/user-attachments/assets/f11c214b-8f74-4ca6-94e2-7f40d19c3175" />
+- Bấm install
+- <img width="371" height="289" alt="Screenshot 2026-07-23 152205" src="https://github.com/user-attachments/assets/38110437-aedf-4b02-ba51-0f083db7d115" />
+
+
+
 
 - 📏 Bám tường trái/phải bằng cảm biến Laser
 - 🎯 Điều khiển lái bằng thuật toán PD
