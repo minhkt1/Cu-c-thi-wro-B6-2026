@@ -4,7 +4,7 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 ## Hướng dẫn tải arduino
 - Đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources để tải
-- [Hướng dẫn tải]([url](https://download-files.wixmp.com/raw/d3626f_9be494eb96654690bd0352d2ae64b739.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvYmoiOltbeyJwYXRoIjoiL3Jhdy9kMzYyNmZfOWJlNDk0ZWI5NjY1NDY5MGJkMDM1MmQyYWU2NGI3MzkucGRmIn1dXSwiZGlzIjp7ImZpbGVuYW1lIjoiTUFUUklYX1I0X0d1aWRlYm9va19FTl9WMy4wLnBkZiIsInR5cGUiOiJpbmxpbmUifSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXSwiZXhwIjoxNzg0Nzk2NTE5LCJqdGkiOiJkYjM4ZjhjMi0yZTJhLTQ1NjUtOWE3My0wMThhYTFmOGUxNWMiLCJpYXQiOjE3ODQ3OTU2MTksImlzcyI6InVybjphcHA6ZTY2NjMwZTcxNGYwNDkwYWFlYTFmMTQ5YjNiNjllMzIiLCJzdWIiOiJ1cm46YXBwOmU2NjYzMGU3MTRmMDQ5MGFhZWExZjE0OWIzYjY5ZTMyIn0.ZPzEUTPnrKniL_jEp4zwV2uRtNKRb8fusCh5L9x44ys)) tìm mục 2.11.2.Arduino Programming & Library Overview
+- Hướng dẫn tải https://username.github.io/repository tìm mục 2.11.2.Arduino Programming & Library Overview
 
 
 
