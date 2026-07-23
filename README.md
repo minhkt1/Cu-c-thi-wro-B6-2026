@@ -2,9 +2,9 @@
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 
 ## Hướng dẫn tải arduino
-- đầu tiên cần truy cập vào link
+- Đầu tiên cần truy cập vào link
 - https://www.matrixrobotics.com/adv-program-resources
-
+- Kéo cho đến khi nhìn thấy chữ download arduino như ảnh dưới đây, sau đó bấm download
 - <img width="648" height="171" alt="image" src="https://github.com/user-attachments/assets/72b0a768-fade-4eb1-ac12-deabcfcb3846" />
 
 - 📏 Bám tường trái/phải bằng cảm biến Laser
