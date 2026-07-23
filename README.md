@@ -12,7 +12,36 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 ## Hướng dẫn lắp robot
 - Sử dụng bộ dụng cụ **MATRIX WRO Future Innovators Set V2**
 - Hướng dẫn lắp
-##
+## Hệ thống cảm biến
+- 2 laser sensor V2
+- color senser V3
+- M-vision camera
+- Động cơ DC
+- Servo
+## 🚗 Chức năng chính
+
+| Hàm | Chức năng |
+|------|-----------|
+| `ChieuBenTrai()` | chạy vòng mở theo hướng bên trái
+| `ChieuBenPhai()` | Chạy vòng mở theo hướng bên phải |
+| `DoTuongPhai_TocDo_n_Khoangcach_mm_n_kp_n_kd_n(float tocdo, float mm, float kp, float kd)` | Di chuyển bám tường bên phải |
+| `DoTuongTrai_TocDo_n_Khoangcach_mm_n_kp_n_kd_n(float tocdo, float mm, float kp, float kd)` | Di chuyểnn bám tường bên trái |
+| `DoDuong_Trai_Cm_n_TocDo_n_KhoangCach_Mm_n_kp_n_kd_n(float cm, float tocdo, float mm, float kp, float kd)` | Di chuyển bám tường bên trái theo cm |
+| `DoDuongPhai_Cm_n_TocDo_n_KC_MM_n_kp_n_kd_n(float cm, float tocdo, float mm, float kp, float kd)` | Di chuyển bám tường bên phải theo cm |
+| `camera()` | Xử lý dữ liệu camera |
+| `TranhKhoi_Do()` | Né khối màu đỏ |
+| `TranhKhoi_Xanh()` | Né khối màu xanh |
+
+## Hướng dẫn cài code và chạy
+- code arduino https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/doduongv2_ban_arduino.ino
+- Trước khi chạy cần để robot song song với thành tường, trong vực quy định đối với vòng thử thách mở và trong khu vực đỗ xe đối vòng thử thách chướng ngại vật
+## Hướng dẫn xử lý lỗi
+- Robot khi bám tường bị lắc, không ổn định ==> cần điều chỉnh chỉ số kp, kd
+- Robot không đọc được vạch màu, cần giảm tốc độ để kiểm tra color sensor V3 có hoạt động không. Nếu không thì cần điều chỉnh lại chỉ số RBG hoặc kiểm tra cảm biến có hoạt động hay không
+- Trong trường hợp robot không đọc được khối. Cần kiểm tra robot có nhìn thấy khối không, thì cần điều chỉnh sao cho robot nhìn được khối. Nếu nhìn được nhưng robot không nhận thì cần cheking lại camera sao cho nhìn được
+- Robot đang đi mà dừng không đi nữa hoặc phải đẩy mới đi được, cần kiểm tra lại cổng cắm pin, phần trăm pin
+
+- 
 
 
 
@@ -34,6 +63,7 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 - 2 × Matrix Laser V2 Distance Sensor
 - Matrix Color Sensor V3
 - Matrix AI Vision Camera
+  
 
 ---
 
